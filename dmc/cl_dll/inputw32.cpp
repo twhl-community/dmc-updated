@@ -24,11 +24,6 @@
 #include "../public/keydefs.h"
 #include "view.h"
 #include "Exports.h"
-/*#ifdef _WIN32
-#define CL_DLLEXPORT EXPORT
-#else
-#define CL_DLLEXPORT __attribute__ ((visibility("default")))
-#endif*/
 
 #define MOUSE_BUTTON_COUNT 5
 

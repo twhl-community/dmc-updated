@@ -16,7 +16,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-typedef bool BOOL;
+#include "Platform.h"
 
 // hack into header files that we can ship
 typedef int qboolean;
